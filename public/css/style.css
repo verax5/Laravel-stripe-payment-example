@@ -1,0 +1,161 @@
+.product-subscriber  {
+    background-color:yellow;
+    font-weight:bold;
+    padding:3px;
+    border-radius:5px;
+    font-size:13px;
+    font-style: italic;
+}
+
+.product-members {
+    background-color:lightgray;
+    font-weight:bold;
+    padding:3px;
+    border-radius:5px;
+    font-size:13px;
+    font-style: italic;
+}
+
+.snippet {
+    font-size:14px;
+}
+
+.title {
+    padding: 10px;
+    background-color: #efefef;
+    text-align:center;
+    min-width:100%;
+}
+
+.product-box {
+    margin-bottom:10px;
+    padding-top:20px;
+    text-align: center;
+}
+
+.product-box-inner {
+    padding:10px;
+    background-color: #f9f9f9;
+    height: 100%;
+    border-bottom:1px solid lightgray;
+    position:relative;
+}
+
+.download {
+    position:absolute;
+    bottom:0;
+    left:0;
+    min-width:100%;
+    text-align:center;
+    background: #ab0000;
+    padding:10px;
+    font-weight:bold;
+}
+
+.download a {
+    color:white;
+}
+
+
+.title a {
+    color:black;
+    font-weight:bold;
+}
+
+
+.thumbnail {
+    padding:10px;
+}
+
+.login-box {
+    background: #f3f3f3;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.login-box-heading {
+    border-radius-top-left:10px;
+    border-radius-top-right: 10px;
+    text-align:center;
+    font-weight:bold;
+    font-size:20px;
+    text-transform: uppercase;
+    margin-top:10px;
+}
+
+.user-login-button {
+    width:100%;
+    background-color:#3f3f3f;
+}
+
+button.user-login-button:hover {
+    background-color: #232222;
+}
+
+.register-box-heading {
+    border-radius-top-left:10px;
+    border-radius-top-right: 10px;
+    text-align:center;
+    font-weight:bold;
+    font-size:20px;
+    text-transform: uppercase;
+    margin-top:10px;
+}
+
+.register-box-button {
+    width:100%;
+    background-color:#006af2;
+    font-weight:bold;
+    text-transform: uppercase;
+}
+
+.register-box {
+    background: #f3f3f3;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+button.register-box-button:hover {
+    background-color: #004aaa;
+}
+
+
+a.nav-link {
+    color:white !important;
+}
+
+.navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-color: #3f3f3f !important;
+}
+
+.subscribe-link {
+    background-color: #ab0000;
+    border-radius:10px;
+    font-weight:bold;
+}
+
+.payment-box {
+    background: #ececec;
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+.add-product-button {
+    width:100%;
+}
+
+.subscription-title {
+    padding: 5px;
+    text-align:center;
+    background-color: #ab0000;
+
+    color: white;
+}
+
+.subscription-title p {
+    margin:0px;
+}
+
+.payment-button {
+    text-align:center;
+}
